@@ -1,0 +1,59 @@
+html{ margin: 0px; padding: 0px; }
+body{
+  font-family:arial ;
+  background:#fff;
+ }
+ 
+ #logo{
+  float: left;
+  margin: 10px 0 0 0px;
+  
+}
+  #menu ul{
+  list-style: none;
+  height: 50px; 
+  border: 1px solid #ccc; 
+  margin: 15px;
+  border-radius:5px;
+}
+
+ #menu ul li{
+  float:left;
+  padding:15px 40px 5px 15px;
+  }
+ #menu ul a{
+  border: 1px solid #ccc;
+  color: #1E90FF;
+  font-size: 20px;
+  background-color:#FFF;
+  border-radius: 5px;
+  padding: 5px 20px 5px 15px ;
+  margin:  5px 15px 5px 15px ;
+  clear: both;
+}
+#footer{
+  text-align: center;
+  border: 1px solid #ccc;
+  margin: 15px;
+  width: auto;
+  border-radius:5px;
+  float:center;
+  clear: both;
+}
+#imagemPaginaPrincipal .imgPequena{
+  text-align: center;
+  border: 1px solid #ccc;
+  width: auto;
+  height: 330px;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+  .imgProduto{
+   border: px solid #ccc;
+   width: 150px;
+   height: 220px;
+   float: left;
+}
+  
+  
